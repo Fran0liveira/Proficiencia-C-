@@ -1,0 +1,21 @@
+c:\users\aluno\documents\visual studio 2015\Projects\FormularioCliente\FormularioCliente\bin\Debug\FormularioCliente.exe.config
+c:\users\aluno\documents\visual studio 2015\Projects\FormularioCliente\FormularioCliente\bin\Debug\FormularioCliente.exe
+c:\users\aluno\documents\visual studio 2015\Projects\FormularioCliente\FormularioCliente\bin\Debug\FormularioCliente.pdb
+c:\users\aluno\documents\visual studio 2015\Projects\FormularioCliente\FormularioCliente\obj\Debug\FormularioCliente.csprojResolveAssemblyReference.cache
+c:\users\aluno\documents\visual studio 2015\Projects\FormularioCliente\FormularioCliente\obj\Debug\FormularioCliente.frmCliente.resources
+c:\users\aluno\documents\visual studio 2015\Projects\FormularioCliente\FormularioCliente\obj\Debug\FormularioCliente.Properties.Resources.resources
+c:\users\aluno\documents\visual studio 2015\Projects\FormularioCliente\FormularioCliente\obj\Debug\FormularioCliente.csproj.GenerateResource.Cache
+c:\users\aluno\documents\visual studio 2015\Projects\FormularioCliente\FormularioCliente\obj\Debug\FormularioCliente.exe
+c:\users\aluno\documents\visual studio 2015\Projects\FormularioCliente\FormularioCliente\obj\Debug\FormularioCliente.pdb
+G:\FormularioCliente\FormularioCliente\bin\Debug\FormularioCliente.exe.config
+G:\FormularioCliente\FormularioCliente\bin\Debug\FormularioCliente.exe
+G:\FormularioCliente\FormularioCliente\bin\Debug\FormularioCliente.pdb
+G:\FormularioCliente\FormularioCliente\obj\Debug\FormularioCliente.csprojAssemblyReference.cache
+G:\FormularioCliente\FormularioCliente\obj\Debug\FormularioCliente.frmCliente.resources
+G:\FormularioCliente\FormularioCliente\obj\Debug\FormularioCliente.Properties.Resources.resources
+G:\FormularioCliente\FormularioCliente\obj\Debug\FormularioCliente.csproj.GenerateResource.cache
+G:\FormularioCliente\FormularioCliente\obj\Debug\FormularioCliente.csproj.CoreCompileInputs.cache
+G:\FormularioCliente\FormularioCliente\obj\Debug\FormularioCliente.exe
+G:\FormularioCliente\FormularioCliente\obj\Debug\FormularioCliente.pdb
+G:\FormularioCliente\FormularioCliente\obj\Debug\FormularioCliente.Inicial.resources
+G:\FormularioCliente\FormularioCliente\obj\Debug\FormularioCliente.frmClientesCadastrados.resources
